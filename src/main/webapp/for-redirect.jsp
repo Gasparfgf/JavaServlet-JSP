@@ -12,6 +12,7 @@
 </head>
 <body>
     <h1>Forwarding</h1>
-<p>This is the redirection request.</p>
+    <p>This is the forwarding request.</p>
+    <p>Go to rediction request <a href="/redirect">here.</a></p>
 </body>
 </html>
